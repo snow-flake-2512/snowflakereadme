@@ -10,7 +10,7 @@ I will use this GitHub profile to showcase my data science skills.
 
 - Python 
 - Data Science
-Here's my [LinkedIn](https://www.linkedin.com/in/tuhina-anoop/)
+- Here's my [LinkedIn](https://www.linkedin.com/in/tuhina-anoop/)
 - 
 <!--
 **tuhina-a/tuhina-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
