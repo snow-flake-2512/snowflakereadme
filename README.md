@@ -2,9 +2,7 @@
 
 ## About me
 
-I am a student at the _LSE_ studying BSc Economics.
-
-I will use this GitHub profile to showcase my data science skills.
+I am a student at the _LSE_ studying BSc Economics, specilaising in Accounting and Data Science!
 
 ### Interests
 
