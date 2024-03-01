@@ -11,7 +11,14 @@ I will use this GitHub profile to showcase my data science skills.
 - Python 
 - Data Science
 - Here's my [LinkedIn](https://www.linkedin.com/in/tuhina-anoop/)
-- 
+
+### I am currently developing my:
+
+- Web scraping using APIs
+- Macro-economic analysis
+- Salsa skills!
+
+
 <!--
 **tuhina-a/tuhina-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
