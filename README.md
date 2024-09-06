@@ -2,19 +2,9 @@
 
 ## About me
 
-I am a student at the _LSE_ studying BSc Economics, specilaising in Accounting and Data Science!
+I am a student at the _LSE_ studying BSc Economics, specilaising in Accounting and Data Science
+Here's my [LinkedIn](https://www.linkedin.com/in/tuhina-anoop/)
 
-### Interests
-
-- Python 
-- Data Science
-- Here's my [LinkedIn](https://www.linkedin.com/in/tuhina-anoop/)
-
-### I am currently developing my:
-
-- Web scraping using APIs
-- Macro-economic analysis
-- Salsa skills!
 
 
 <!--
